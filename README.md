@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://github.com/user-attachments/assets/7f7f310f-c570-475b-b17c-130e9c3798eb" width="50%">
+</div>
+
 # KernelMessage2Telegram
 
 ## Description
